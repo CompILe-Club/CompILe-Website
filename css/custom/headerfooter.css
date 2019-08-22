@@ -1,0 +1,23 @@
+.footer-info-container {
+  background-color: #194D75;
+  height: 13em;
+}
+.footer-info-container > *{
+  color: #DDD;
+  margin: 1vw;
+}
+
+.footer-info-container > a {
+  color: #FFF;
+  display: inline-block;
+  height: 50%;
+  position: relative;
+}
+
+.footer {
+  margin-top: 3vh;
+}
+
+.footer > * {
+  color: #555;
+}
