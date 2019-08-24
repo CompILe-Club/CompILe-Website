@@ -16,6 +16,7 @@
 
 .footer {
   margin-top: 3vh;
+  clear: both;
 }
 
 .footer > * {
