@@ -3,22 +3,28 @@
   margin-bottom: 2vh;
 }
 
+#column-right {
+  float: right;
+  width: 25%;
+}
+
 #compile-logo-brand {
-  transform: scale(0.05, 0.05);
-  filter: invert(90%);
+  filter: invert(10%);
 }
 
 #compile-logo-center {
-  transform: scale(0.5, 0.5);
+  width: 40%;
+  height: 40%;
 }
 
 #contact {
-  height: 100%;
+  margin-bottom: 10vh;
 }
 
-.container-fluid > p {
-  margin-left: 10vw;
-  margin-right: 10vw;
+.content-main {
+  width: 60%;
+  float: left;
+  margin-left: 5vw;
 }
 
 #github-icon {
@@ -44,4 +50,10 @@
 
 .navbar-nav > .active{
   background-color: #3C7E98;
+}
+
+@media screen and (max-width: 800px) {
+  #column-right {
+    width: 100%;
+  }
 }
