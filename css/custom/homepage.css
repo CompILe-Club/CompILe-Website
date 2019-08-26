@@ -1,0 +1,59 @@
+#about {
+  height: auto;
+  margin-bottom: 2vh;
+}
+
+#column-right {
+  float: right;
+  width: 25%;
+}
+
+#compile-logo-brand {
+  filter: invert(10%);
+}
+
+#compile-logo-center {
+  width: 40%;
+  height: 40%;
+}
+
+#contact {
+  margin-bottom: 10vh;
+}
+
+.content-main {
+  width: 60%;
+  float: left;
+  margin-left: 5vw;
+}
+
+#github-icon {
+  filter: invert(100%);
+}
+
+.icon {
+  width: 4em;
+  height: 4em;
+}
+
+.jumbotron {
+  padding: 5vw;
+}
+
+.mono > p {
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+.navbar {
+  background-color: #194D75;
+}
+
+.navbar-nav > .active{
+  background-color: #3C7E98;
+}
+
+@media screen and (max-width: 800px) {
+  #column-right {
+    width: 100%;
+  }
+}
