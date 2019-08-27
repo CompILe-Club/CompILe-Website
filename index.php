@@ -30,7 +30,7 @@
 		    <div class="col-lg-8">
 			    <div class="container-fluid mono" id="about">
 			      <p class="h1">About</p>
-			      <p class="h2">Meetings: Wednesdays, 3pm room TBD</p>
+			      <p class="h2">Meetings: Wednesdays, 3pm Room TC213</p>
 			      <p class="h3">The Computer Information League at ICC is dedicated to connecting Information Technology majors and those with interest through team projects and events. We want to create an environment where everyone can develop, and create projects from which everyone can learn. This website is still under construction, and contributions are welcome! A link to our github page is located in the website's footer.</p>
 			    </div>
 	     </div>
@@ -57,10 +57,6 @@
 			      <p class="h3">Treasurer: Tim Lance</p>
 			    </div>
 	      </div>
-
-        <!--<div class="col-lg-6">
-					
-        </div>-->
 	    </div>
 
     </div>
