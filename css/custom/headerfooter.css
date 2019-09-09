@@ -10,7 +10,7 @@
 .footer-info-container > a {
   color: #FFF;
   display: inline-block;
-  height: 50%;
+  height: 30%;
   position: relative;
 }
 
@@ -21,4 +21,26 @@
 
 .footer > * {
   color: #555;
+}
+
+#icc-logo {
+  background:url("/img/logo-footer.png") no-repeat;
+  width: 205px;
+  height: 127px;
+}
+
+@media screen and (max-width: 700px) {
+  #icc-logo {
+    background: url("/img/logo-footer-small.png") no-repeat;
+    width: 76px;
+    height: 94px;
+  }
+
+  .footer-info-container {
+    height: 10em;
+  }
+
+  .footer-info-container > a {
+    height: 50%;
+  }
 }

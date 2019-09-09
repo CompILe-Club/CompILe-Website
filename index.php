@@ -20,30 +20,29 @@
       <div class="logo">
         <img src="img/compile-logo.png" id="compile-logo-center">
       </div>
-      <p class="h1">The ICC Information Technology RSO</p>
+      <p class="h1">The ICC Information Technology Club</p>
     </div>
 
    <div class="container-fluid" id="main-content">
 
 	    <div class="row">
 
-		    <div class="col-lg-8">
+		    <div class="col-lg-6">
 			    <div class="container-fluid mono" id="about">
 			      <p class="h1">About</p>
 			      <p class="h2">Meetings: Wednesdays, 3-4pm, Room TC213</p>
-			      <p class="h3">The Computer Information League at ICC is dedicated to connecting Information Technology majors and those with interest through team projects and events. We want to create an environment where everyone can develop, and create projects from which everyone can learn. This website is still under construction, and contributions are welcome! A link to our github page is located in the website's footer.</p>
+			      <p class="h3">The Computer Information League at ICC is dedicated to connecting Information Technology majors and those with interest through team projects and events. We want to create an environment where everyone can develop, and create projects from which everyone can learn.</p>
 			    </div>
 	     </div>
 
 	      <div class="col-lg-4">
 			    <div class="container-fluid mono">
 			      <p class="h1">Projects</p>
-			      <p class="h3">Coming Soon! Join our discord server or attend meetings for updates.</p>
+			      <p class="h3">Unity Platformer Game - Status: Proposed</p>
 			    </div>
 	      </div>
 
 	    </div>
-
 
 
 	    <div class="row">
@@ -55,6 +54,15 @@
 			      <p class="h3">Vice President: Eli Mathis</p>
 			      <p class="h3">Secretary: Kaitelin Reyes</p>
 			      <p class="h3">Treasurer: Tim Lance</p>
+			    </div>
+	      </div>
+
+	      <div class="col-lg-4">
+			    <div class="container-fluid mono">
+			      <p class="h1">Events</p>
+			      <p class="h3">Smash Bros Game Day - TBD</p>
+						<p class="h3">PC Tuneup - TBD</p>
+						<p class="h3">Smash Bros Tournament - TBD</p>
 			    </div>
 	      </div>
 	    </div>
